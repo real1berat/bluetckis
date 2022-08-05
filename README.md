@@ -1,1 +1,1 @@
-# bluetckis
+# blueticks
